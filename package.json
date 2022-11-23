@@ -1,6 +1,6 @@
 {
   "name": "@findtools/sync-iconfont-files",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "a tool to download iconfont files in iconfont.cn",
   "bin": {
     "sync-iconfont-files": "bin/index.js"
